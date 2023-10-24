@@ -2,7 +2,4 @@ title: [Solving for Homelessness]
 description: [Insert description here - Slate is a theme for GitHub Pages.]
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: slate
